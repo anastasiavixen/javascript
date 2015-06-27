@@ -1,0 +1,1 @@
+These are my current exercise submissions for the js coding katas on the exercism.io site.  My profile is at exercism.io/anastasiavixen.  I will update as I add more.
