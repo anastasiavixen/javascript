@@ -1,4 +1,4 @@
-*** This exercise is in progress! ***
+*** My solution for this exercise is in progress! ***
 
 
 # Anagram
